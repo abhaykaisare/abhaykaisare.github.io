@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Quotes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<p><a href="index.html">← Home</a></p>
+
+<h1>Quotes<h1>
+
+<p>
+If you want to buy without looking at the price work without looking at the clock.
+</p>
+
+<p>
+Doing something is better than doing nothing.
+</p>
+
+<p>
+A fool who tries to do something is better than a genius who does nothing.
+</p>
+
+<p>
+Judging is easy Thinking is difficult.
+</p>
+
+</body>
+</html>
